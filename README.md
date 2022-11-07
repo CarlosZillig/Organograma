@@ -1,5 +1,7 @@
 # Organograma
 
+##### Link: https://organograma-zeta.vercel.app/
+
 ### Descrição do projeto
 
 Organograma é uma aplicação que tem como seu principal objetivo a manipulação de equipes. Já pensou em criar equipes e colaboradores com a opção de personalizar cada um com cores únicas? Isso é o Organograma.
@@ -14,6 +16,7 @@ Organograma é uma aplicação que tem como seu principal objetivo a manipulaç�
 5. Adicionar e editar em tempo real as cores de cada time
 6. Remover um colaborador
 7. Remover um time (basta zerar o numero de colaboradores)
+8. Favoritar membros
 
 ##### Updates futuros
 
@@ -26,7 +29,7 @@ Organograma é uma aplicação que tem como seu principal objetivo a manipulaç�
 
 Posso dizer que este foi meu primeiro projeto 100% realizado com React. Nesse desafio, sofri e aprendi muita coisa. Minha lógica estava voltada 100% ao JS, foi complicado migrar de "DOM" para states, o resto eu me dei bem, segue a lista para mais:
 
-1. Aprendi a
+Aprendi a:
     1. Como utilizar o React
     2. Por que utilziar o React
     3. Como o React funciona
@@ -39,7 +42,6 @@ Posso dizer que este foi meu primeiro projeto 100% realizado com React. Nesse de
     9. Como o React renderiza o virtual DOM
     10. Como criar e manipular states
     11. Como utilizar condições em React
-2. Outros...
 
 Citei pontos que considero mais importantes, porem aprendi muita coisa do React.
 
